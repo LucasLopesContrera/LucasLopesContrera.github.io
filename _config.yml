@@ -1,5 +1,5 @@
 # Site settings
-title: Blog do Lucas Contrera
+title: Blog do Lucas Lopes Contrera
 url: "https://lucaslopescontrera.github.io/"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: 
 #timezone: Asia/Chongqing
@@ -9,7 +9,7 @@ description: Esse blog é uma iniciativa científica.
 # Your information
 email: lopcont@gmail.com
 author: Lucas Contrera
-avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
+avatar: "imagens-imagens-tigres-jpg-1920x1080.html" #"//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
 profile: Meu Nome é Lucas, sou universiário e sou louco por tecnologia.
 #twitter_username: twitter_username
 #github_username:  github_username
