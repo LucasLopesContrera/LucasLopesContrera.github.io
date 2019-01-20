@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
 ---
 
-Welcome to this website!
+Esse blog é uma iniciativa científica, iniciada por Lucas Lopes Contrera!
 
-> This website is using [laobubu](http://laobubu.net)'s theme: [EasyBook](https://github.com/laobubu/jekyll-theme-EasyBook)
+
