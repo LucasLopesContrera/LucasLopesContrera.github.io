@@ -1,27 +1,27 @@
 # Site settings
 title: Another Blog
-url: "http://laobubu.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
-baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
+url: "https://lucaslopescontrera.github.io/"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+baseurl: 
 #timezone: Asia/Chongqing
 description: >
   One or more sentences introducing this blog.
 
 # Your information
-email: your_email@example.com
-author: your_name
+email: lopcont@gmail.com
+author: Lucas Contrera
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: One sentence introducing yourself.
+profile: Meu Nome é Lucas.
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
-  Email: "mailto:your_email@example.com"
-  GitHub: "https://github.com/laobubu/jekyll-theme-EasyBook"
+  Email: "mailto:"
+  GitHub: "https://github.com/LucasLopesContrera/LucasLopesContrera.github.io.git"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
-# Comment Service (Disqus or 多说)
+
 #  choose one and un-comment the line to active it
 #disqus_shortname: xxx   # get one: https://disqus.com/admin/signup/
-#duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
+duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
 
 excerpt_separator: <!--more-->
 
@@ -44,7 +44,7 @@ paginate_path: "page:num"
 highlighter: rouge
 markdown: kramdown
 
-# https://jekyllrb.com/docs/configuration/#precedence
+
 defaults:
   -
     scope:
