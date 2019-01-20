@@ -57,17 +57,17 @@ EasyBook uses upaiyun CDN to make everyone lncluding Chinese visitors feel speed
 
 EasyBook does not make the footer heavy; the link to theme could be on `about.md`:
 
-> This website is using [laobubu](http://laobubu.net)'s theme: [EasyBook](https://github.com/laobubu/jekyll-theme-EasyBook)
+> Esse site usa [laobubu](http://laobubu.net) que é o tema: [EasyBook](https://github.com/laobubu/jekyll-theme-EasyBook)
 
 ### Donate (PayPal or 支付宝) ###
 
 That's the best :smile: 
 
-Please visit [http://laobubu.net/donate.html](http://laobubu.net/donate.html)
+Por favor visite [http://laobubu.net/donate.html](http://laobubu.net/donate.html)
 
 ### Star and Fork on GitHub (free) ###
 
-Not going to donate? That's okay. You can also send out your precious star [on GitHub][github-easybook].
+Não vai doar? Tudo bem :). Você pode sempre mandar a sua preciosa estrela. [on GitHub][github-easybook].
 
 ## And Here We Go ##
 
