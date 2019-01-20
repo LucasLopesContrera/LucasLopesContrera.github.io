@@ -6,9 +6,9 @@ categories: jekyll update
 permalink: /archivers/hello
 ---
 
-Aqui ficam as Postagens
+Aqui ficam as Postagens (exemplo pois estou muito cansado para escrever mais)
 
-Aqui ficam as Postagens
+Aqui ficam as Postagens (exemplo pois estou muito cansado para escrever mais)
 
 <!--more-->
 
@@ -24,9 +24,9 @@ print_hi('Tom')
 
 And $$\mathcal{ Mathematics }$$ is supported!
 
-Use `$$` to wrap your formulas. For example, `$$ e^{i\pi} + 1 = 0 $$` displays $$  e^{i\pi} + 1 = 0  $$
+Use `$$` texto, `$$ e^{i\pi} + 1 = 0 $$` displays $$  e^{i\pi} + 1 = 0  $$
 
-Multi-line forumlas are supported too.
+texto.
 
 $$
 \begin{aligned}
@@ -37,39 +37,22 @@ $$
 $$
 
 
-## EasyBook Advanced Functions ##
-
-You are using [EasyBook][github-easybook] the template from [laobubu.net](http://laobubu.net). Therefore some features are supported now:
-
-* **Pagination** is enabled.
-* **Disqus** or **多说** is ready.
-* **TOC** for posts is enabled.
-* **Profile** including your links and avatar on the sidebar.
-* *And more...*
-
-> **Tips:** You can disable Disqus or 多说 on posts/pages by adding `nocomments: true` into [YAML Front Matter][frontmatter].
-
-EasyBook uses upaiyun CDN to make everyone lncluding Chinese visitors feel speedy. You can find it in `_includes/footer.html` and change it to your favorite CDN like Google CDN.
-
 ## Support me by... ##
 
-### Add a link ###
+### Link ###
 
-EasyBook does not make the footer heavy; the link to theme could be on `about.md`:
-
-> Esse site usa [laobubu](http://laobubu.net) que é o tema: [EasyBook](https://github.com/laobubu/jekyll-theme-EasyBook)
+texto
 
 ### Donate (PayPal or 支付宝) ###
 
 That's the best :smile: 
 
-Por favor visite [http://laobubu.net/donate.html](http://laobubu.net/donate.html)
+Por favor visite [http://lucaslopescontrera.com.br/donate.html](http://lucaslopescontrera.com.br/donate.html)
 
-### Star and Fork on GitHub (free) ###
 
 Não vai doar? Tudo bem :). Você pode sempre mandar a sua preciosa estrela. [on GitHub][github-easybook].
 
-## And Here We Go ##
+## Aqui vamos nós ##
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
 
