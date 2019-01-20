@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll and EasyBook"
-date:   2014-12-30 09:00:13
+title:  "O Blog Pessoal do Lucas Lopes Contrera"
+date:   2019-01-19 13:40:13
 categories: jekyll update
 permalink: /archivers/hello
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Aqui ficam as Postagens
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Aqui ficam as Postagens
 
 <!--more-->
 
